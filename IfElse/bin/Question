@@ -1,0 +1,7 @@
+Java Program to check which one is greater among the given inputs, take 3 variables A,B,C as a input from keyboard and tell which one is greater
+ sample input: 
+ 1
+ 4
+ 2
+ 
+ sample output : B is greater
