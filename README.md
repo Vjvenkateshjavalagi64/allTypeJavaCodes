@@ -1,0 +1,2 @@
+# allTypeJavaCodes
+Java Codes 
